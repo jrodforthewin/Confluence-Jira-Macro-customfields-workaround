@@ -1,0 +1,3 @@
+com.atlassian.jira.config.properties.JiraProperties
+com.atlassian.jira.issue.CustomFieldManager
+com.atlassian.jira.issue.fields.FieldManager

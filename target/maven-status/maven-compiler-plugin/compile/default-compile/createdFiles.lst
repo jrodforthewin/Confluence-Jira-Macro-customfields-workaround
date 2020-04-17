@@ -1,0 +1,4 @@
+com\amadeus\jira\plugin\issueview_field_allcustom_workaround\AllCustomFieldSwallowingServletRequest.class
+com\amadeus\jira\plugin\issueview_field_allcustom_workaround\AllCustomFieldSwallowingFilter.class
+com\amadeus\jira\plugin\issueview_field_allcustom_workaround\package-info.class
+com\amadeus\jira\plugin\issueview_field_allcustom_workaround\BuiltInColumnNames.class

@@ -1,0 +1,25 @@
+Manifest-Version: 1.0
+Atlassian-Build-Date: 2020-04-17T14:19:43+0200
+Atlassian-Plugin-Key: com.amadeus.jira.plugin.confluence-jira-macro-cust
+ omfields-workaround
+Bnd-LastModified: 1587126059223
+Build-Jdk: 14.0.1
+Built-By: Jarrod
+Bundle-Description: Working around https://jira.atlassian.com/browse/CON
+ FSERVER-56017
+Bundle-DocURL: http://www.amadeus.com
+Bundle-License: http://www.apache.org/licenses/LICENSE-2.0
+Bundle-ManifestVersion: 2
+Bundle-Name: confluence-jira-macro-customfields-workaround
+Bundle-SymbolicName: com.amadeus.jira.plugin.confluence-jira-macro-custo
+ mfields-workaround
+Bundle-Vendor: Amadeus SAS
+Bundle-Version: 1.1.0.SNAPSHOT
+Created-By: Apache Maven Bundle Plugin
+Import-Package: com.atlassian.annotations.nonnull,com.atlassian.jira.con
+ fig.properties,com.atlassian.jira.issue,com.atlassian.jira.issue.fields
+ ,com.atlassian.plugin.spring.scanner.annotation.imports,javax.annotatio
+ n,javax.inject,javax.servlet,javax.servlet.http,org.apache.http,org.apa
+ che.http.client.utils,org.apache.http.message,org.slf4j
+Spring-Context: *
+Tool: Bnd-3.5.0.201709291849
